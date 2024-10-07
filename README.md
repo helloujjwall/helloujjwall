@@ -73,7 +73,7 @@
 <h3 align="left">Popular Projects:</h3>
 <ul>
   <li>
-    <strong><a href="https://github.com/your_github_repo1" target="_blank">Learning Management System</a></strong>
+    <strong><a href="https://github.com/helloujjwall/learning-management-system-java-spring-boot/tree/main" target="_blank">Learning Management System</a></strong>
     <br />A comprehensive learning management platform with course management, student enrollment, assessment features, and SMS notifications, built using Java, Spring Boot, MySQL, Thymeleaf, Spring Security, and Twilio API.
   </li>
   <li>
