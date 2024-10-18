@@ -58,13 +58,13 @@
 <h3 align="left">Certifications:</h3>
 <ul>
   <li>
-    <strong>Java Full Stack Development</strong> - <a href="https://example.com/certificate1" target="_blank">SoftPro India</a>
+    <strong>Java Full Stack Development</strong> - <a href="https://media.licdn.com/dms/image/v2/D5622AQEQ9p6iu2tw3w/feedshare-shrink_1280/feedshare-shrink_1280/0/1728837277871?e=1732147200&v=beta&t=pIxuo6XNP_hiWqL8p5AEH41BbvmTLIOU9CjNyZjXDWc" target="_blank">SoftPro India</a>
   </li>
   <li>
-    <strong>Software Engineering</strong> - <a href="https://media.licdn.com/dms/image/v2/D562DAQE3qVjmhwzXbQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1710582143378?e=1728853200&v=beta&t=A1z8isQ9JcZGIyh-QJfSHNPvnHI5vDElBLjVAmA46Dk" target="_blank">Invertis University</a>
+    <strong>Software Engineering</strong> - <a href="https://media.licdn.com/dms/image/v2/D4D22AQHfKzIU4uhWBQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1710782500743?e=1732147200&v=beta&t=TDrt4WOvUdIQG-3K8lTiC_9s7kzGo34x8BRGIclyYsc" target="_blank">Invertis University</a>
   </li>
   <li>
-    <strong>Web Developement</strong> - <a href="https://media.licdn.com/dms/image/v2/D562DAQEGKStPiDInVg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1711001738968?e=1728853200&v=beta&t=tJlUfmtJhDA5z6mqRrJ2f-fvEupDllxapSL2PerUN3c" target="_blank">Invertis University</a>
+    <strong>Web Developement</strong> - <a href="https://media.licdn.com/dms/image/v2/D5622AQEkQHfmBiQjLw/feedshare-shrink_1280/feedshare-shrink_1280/0/1712323002162?e=1732147200&v=beta&t=doEochxWH35Lhj2ZNgeX3FvdDyMOPwe3W6PbxxiF2qw" target="_blank">Invertis University</a>
   </li>
 </ul>
 
