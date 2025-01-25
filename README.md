@@ -58,13 +58,13 @@
 <h3 align="left">Certifications:</h3>
 <ul>
   <li>
-    <strong>Java Full Stack Development</strong> - <a href="https://media.licdn.com/dms/image/v2/D5622AQEQ9p6iu2tw3w/feedshare-shrink_1280/feedshare-shrink_1280/0/1728837277871?e=1732147200&v=beta&t=pIxuo6XNP_hiWqL8p5AEH41BbvmTLIOU9CjNyZjXDWc" target="_blank">SoftPro India</a>
+    <strong>Java Full Stack Development</strong> - <a href="https://www.linkedin.com/posts/helloujjwall_internshipcompleted-javadeveloper-learningjourney-activity-7251269113992339458-2lGL?utm_source=share&utm_medium=member_desktop" target="_blank">SoftPro India</a>
   </li>
   <li>
-    <strong>Software Engineering</strong> - <a href="https://media.licdn.com/dms/image/v2/D4D22AQHfKzIU4uhWBQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1710782500743?e=1732147200&v=beta&t=TDrt4WOvUdIQG-3K8lTiC_9s7kzGo34x8BRGIclyYsc" target="_blank">Invertis University</a>
+    <strong>Software Engineering</strong> - <a href="https://www.linkedin.com/posts/helloujjwall_softwareengineering-invertisuniversity-certification-activity-7175541889733980165-GH1z?utm_source=share&utm_medium=member_desktop" target="_blank">Invertis University</a>
   </li>
   <li>
-    <strong>Web Developement</strong> - <a href="https://media.licdn.com/dms/image/v2/D5622AQEkQHfmBiQjLw/feedshare-shrink_1280/feedshare-shrink_1280/0/1712323002162?e=1732147200&v=beta&t=doEochxWH35Lhj2ZNgeX3FvdDyMOPwe3W6PbxxiF2qw" target="_blank">Invertis University</a>
+    <strong>Web Developement</strong> - <a href="https://www.linkedin.com/posts/helloujjwall_webdevelopment-invertisuniversity-webranger-activity-7182003220955766784-8Fmf?utm_source=share&utm_medium=member_desktop" target="_blank">Invertis University</a>
   </li>
 </ul>
 
@@ -77,12 +77,12 @@
     <br />A comprehensive learning management platform with course management, student enrollment, assessment features, and SMS notifications, built using Java, Spring Boot, MySQL, Thymeleaf, Spring Security, and Twilio API.
   </li>
   <li>
-    <strong><a href="https://ujjwalsingh.netlify.app/" target="_blank">Personal Blog Website</a></strong>
-    <br />A blog platform developed using Java, HTML, CSS, and Bootstrap.
+    <strong><a href="https://ujjwalsingh.rf.gd" target="_blank">Personal Website</a></strong>
+    <br />My Personal Website using HTML CSS.
   </li>
   <li>
-    <strong><a href="https://github.com/your_github_repo3" target="_blank">Portfolio Website</a></strong>
-    <br />My personal portfolio showcasing my projects, skills, and achievements.
+    <strong><a href="https://github.com/helloujjwall/amazon-clone" target="_blank">Amazon Clone</a></strong>
+    <br />Simple Amazon Clone Website using HTML CSS JavaScript and Bootstrap.
   </li>
 </ul>
 
@@ -91,16 +91,16 @@
 <h3 align="left">Blogs:</h3>
 <ul>
   <li>
-    <strong><a href="https://ublogs.netlify.app/articals/ai" target="_blank">AI Unleashed: A Beginner's Guide to Embracing Artificial Intelligence</a></strong>
-    <br />Navigate the world of Artificial Intelligence with ease. Our beginner's guide covers the basics, demystifies jargon, and introduces you to the transformative power of AI. Embark on your journey into the future of technology.
+    <strong><a href="https://ujjwal-singh-blog.blogspot.com/2024/12/how-to-start-coding-step-by-step-guide.html" target="_blank">How to Start Coding: A Step-by-Step Guide for Beginners</a></strong>
+    <br />Learning to code can feel Difficult at first, but with the right approach and mindset, anyone can do it. Coding is not just a technical skill; it’s a way of thinking and solving problems. Here’s a simple and practical guide to help you start your coding journey step by step.
   </li>
   <li>
-    <strong><a href="https://ublogs.netlify.app/articals/dark%20web" target="_blank">Decoding the Dark Web: An Insightful Exploration</a></strong>
-    <br />Peel back the layers of mystery surrounding the Dark Web with our guide. Understand its nature, risks, and anonymity. Navigate the shadows of the internet with knowledge and caution
+    <strong><a href="https://ujjwal-singh-blog.blogspot.com/2024/11/blog-post.html" target="_blank">AI vs AGI: Is Artificial General Intelligence the Future of Humanity?</a></strong>
+    <br />Technology is advancing every day, and Artificial Intelligence (AI) is one of the most talked-about innovations. From your smartphone's voice assistant to self-driving cars, AI is everywhere. 
   </li>
   <li>
-    <strong><a href="https://ublogs.netlify.app/articals/start%20blogging" target="_blank">Embarking on the Blogging Journey: A Step-by-Step Guide to Start Your Own Blog</a></strong>
-    <br />Learn the key steps to launch your blog successfully from niche selection to platform setup. Unlock your creative potential and share your voice with the world through the art of blogging
+    <strong><a href="https://ujjwal-singh-blog.blogspot.com/2024/08/What%20is%20SEO.html" target="_blank">What is SEO and How It Works</a></strong>
+    <br />In today’s digital age, having a strong online presence is crucial for any business or individual looking to stand out. This is where SEO, or Search Engine Optimization, comes into play. But what exactly is SEO, and how does it work? In this comprehensive guide, we’ll dive into the essentials of SEO, its key components, best practices, and how you can leverage it to enhance your online visibility.
   </li>
 </ul>
 
